@@ -15,8 +15,7 @@
 
 ## Contributing
 ### If you have any resources or tutorials that you would like to share, feel free to submit a pull request. Let's build a comprehensive resource for the Python-based cyber security community.
-### ----------------------------------------------------------------------------------------------------------------------------
-
+### ---------------------------------------------------------------------------------------------------------
 ## Türkçe
 # SİBER GÜVENLİK İÇİN PYTHON
 ## Bu havuz, Python'u Siber Güvenlik'te kullanmak için kaynaklar ve öğreticiler içerir.
